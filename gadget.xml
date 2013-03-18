@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+  <ModulePrefs title="Application - GREEApplication">
+    <Link rel="event.addapp" href="http://example.com/add" method="GET" />
+    <Link rel="event.removeapp" href="http://example.com/remove" method="GET" />
+  </ModulePrefs>
+  <Content view="mobile" type="url" href="http://htmldemo_wangyu.ap01.aws.af.cm/index.html" />
+  <Content view="touch" type="url" href="http://htmldemo_wangyu.ap01.aws.af.cm/index.html" />
+</Module>
